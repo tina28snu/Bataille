@@ -1,0 +1,12 @@
+C:\Curs\Csharp\Bataille\Bataille\bin\Debug\Bataille.exe.config
+C:\Curs\Csharp\Bataille\Bataille\bin\Debug\Bataille.exe
+C:\Curs\Csharp\Bataille\Bataille\bin\Debug\Bataille.pdb
+C:\Curs\Csharp\Bataille\Bataille\obj\Debug\Bataille.csprojResolveAssemblyReference.cache
+C:\Curs\Csharp\Bataille\Bataille\obj\Debug\Bataille.exe
+C:\Curs\Csharp\Bataille\Bataille\obj\Debug\Bataille.pdb
+C:\Curs\Csharp\Initiation\Bataille\Bataille\bin\Debug\Bataille.exe.config
+C:\Curs\Csharp\Initiation\Bataille\Bataille\obj\Debug\Bataille.exe
+C:\Curs\Csharp\Initiation\Bataille\Bataille\obj\Debug\Bataille.pdb
+C:\Curs\Csharp\Initiation\Bataille\Bataille\bin\Debug\Bataille.exe
+C:\Curs\Csharp\Initiation\Bataille\Bataille\bin\Debug\Bataille.pdb
+C:\Curs\Csharp\Initiation\Bataille\Bataille\obj\Debug\Bataille.csprojResolveAssemblyReference.cache
